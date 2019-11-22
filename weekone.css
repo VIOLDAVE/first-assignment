@@ -1,0 +1,29 @@
+                                                                          
+.nav-link{
+    text-decoration:none; 
+display:block;
+padding: 9px;
+list-style: none;
+border-bottom: 2px solid gray;
+color:black;
+}
+#main-doc{
+padding-left: 25%;
+}    
+#navbar{
+position:fixed;
+border-right: 3px solid gray;
+left: 0px;
+}
+a:focus{
+background-color:lightblue;
+}
+header{
+font-weight: bold;
+}
+main,body{
+font: 15px/1.5 arial;
+}
+a{
+cursor: pointer;
+}
